@@ -17,6 +17,7 @@ public class WIKI2BIMGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.print("Prueba de commit, se guarda el cambio de versión\n");
     }
     
 }
